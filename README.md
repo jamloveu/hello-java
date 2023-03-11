@@ -1,2 +1,2 @@
 # 目录
-[1. 语言基础：变量与数据类型.md](https://jamloveu.github.io/hello-java/1.语言基础：变量与数据类型.md)
+[1. 语言基础：变量与数据类型.md](https://github.com/jamloveu/hello-java/blob/main/1.语言基础：变量与数据类型.md)
